@@ -67,6 +67,9 @@ img {
     ---
     Default markup for typographic elements
 */
+*+h2{
+    margin-top: 48px;
+}
 h1,
 h2,
 h3 {
